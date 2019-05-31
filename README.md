@@ -1,2 +1,4 @@
 ＃------
-I love :coffee: :tea:  :fish: .
+:coffee: :tea:  :fish: .
+:cat:  :dog:  :apple:
+ 
